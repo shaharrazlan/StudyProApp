@@ -23,6 +23,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  },
+  "splash": {
+    "image": "./assets/splash.png", 
+    "resizeMode": "contain",       
+    "backgroundColor": "#FFFFFF"  
   }
+  
 }
