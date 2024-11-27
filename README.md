@@ -3,6 +3,8 @@
 🎉 **Welcome to your ultimate student assistant!** 🎉  
 Manage your lessons, tasks, and grades effortlessly with this easy-to-use, feature-packed app! Whether you're tackling assignments 📝, organizing your weekly schedule 📅, or tracking your grades 📊, this app has got you covered.
 
+![App Demo](./assets/demo.gif)
+
 ---
 
 ## ✨ **Features at a Glance**  
